@@ -1,0 +1,14 @@
+body, html{
+  height: 100%;
+}
+#root{
+  background-image: url('./images/background.jpg');
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1{
+  color: white !important;
+}

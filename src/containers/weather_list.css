@@ -1,0 +1,19 @@
+.weather-row{
+    margin-top: 30px;
+}
+.col-sm-3{
+    padding: 0 !important;
+}
+.card{
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+.temp{
+    font-size: 30px;
+}
+.text{
+    color: rgb(41, 185, 241);
+}
+.desc{
+    color: rgb(155, 151, 151);
+}

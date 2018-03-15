@@ -1,0 +1,26 @@
+
+.input-container{
+  margin-top: 100px;
+}
+
+.city-input{
+  color: white !important;
+}
+
+.city-input::placeholder{
+  color: white !important;
+}
+
+.fa-search:before{
+  color: white;
+  font-size: 25px;
+  margin-right: 20px;
+  background-color: #243a51;
+  padding: 7px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  cursor: pointer;
+}
+.search{
+  padding-top: 6px;
+}
